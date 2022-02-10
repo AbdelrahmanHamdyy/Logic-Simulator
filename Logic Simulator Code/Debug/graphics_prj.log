@@ -1,0 +1,142 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  main.cpp
+  Output.cpp
+  Input.cpp
+  XOR3.cpp
+  XOR2.cpp
+  XNOR2.cpp
+  SWITCH.cpp
+  ApplicationManager.cpp
+D:\University\Uni Projects\1st Year\1st Semester\Programming (OOP)\Logic Simulator Code\ApplicationManager.cpp(581,21): warning C4018: '<': signed/unsigned mismatch
+D:\University\Uni Projects\1st Year\1st Semester\Programming (OOP)\Logic Simulator Code\ApplicationManager.cpp(886,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\University\Uni Projects\1st Year\1st Semester\Programming (OOP)\Logic Simulator Code\ApplicationManager.cpp(887,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\University\Uni Projects\1st Year\1st Semester\Programming (OOP)\Logic Simulator Code\ApplicationManager.cpp(889,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\University\Uni Projects\1st Year\1st Semester\Programming (OOP)\Logic Simulator Code\ApplicationManager.cpp(890,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\University\Uni Projects\1st Year\1st Semester\Programming (OOP)\Logic Simulator Code\ApplicationManager.cpp(894,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\University\Uni Projects\1st Year\1st Semester\Programming (OOP)\Logic Simulator Code\ApplicationManager.cpp(898,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\University\Uni Projects\1st Year\1st Semester\Programming (OOP)\Logic Simulator Code\ApplicationManager.cpp(899,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\University\Uni Projects\1st Year\1st Semester\Programming (OOP)\Logic Simulator Code\ApplicationManager.cpp(903,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\University\Uni Projects\1st Year\1st Semester\Programming (OOP)\Logic Simulator Code\ApplicationManager.cpp(905,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\University\Uni Projects\1st Year\1st Semester\Programming (OOP)\Logic Simulator Code\ApplicationManager.cpp(906,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\University\Uni Projects\1st Year\1st Semester\Programming (OOP)\Logic Simulator Code\ApplicationManager.cpp(908,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\University\Uni Projects\1st Year\1st Semester\Programming (OOP)\Logic Simulator Code\ApplicationManager.cpp(910,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\University\Uni Projects\1st Year\1st Semester\Programming (OOP)\Logic Simulator Code\ApplicationManager.cpp(910,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\University\Uni Projects\1st Year\1st Semester\Programming (OOP)\Logic Simulator Code\ApplicationManager.cpp(916,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\University\Uni Projects\1st Year\1st Semester\Programming (OOP)\Logic Simulator Code\ApplicationManager.cpp(917,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\University\Uni Projects\1st Year\1st Semester\Programming (OOP)\Logic Simulator Code\ApplicationManager.cpp(918,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\University\Uni Projects\1st Year\1st Semester\Programming (OOP)\Logic Simulator Code\ApplicationManager.cpp(919,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\University\Uni Projects\1st Year\1st Semester\Programming (OOP)\Logic Simulator Code\ApplicationManager.cpp(924,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\University\Uni Projects\1st Year\1st Semester\Programming (OOP)\Logic Simulator Code\ApplicationManager.cpp(931,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\University\Uni Projects\1st Year\1st Semester\Programming (OOP)\Logic Simulator Code\ApplicationManager.cpp(939,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\University\Uni Projects\1st Year\1st Semester\Programming (OOP)\Logic Simulator Code\ApplicationManager.cpp(945,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\University\Uni Projects\1st Year\1st Semester\Programming (OOP)\Logic Simulator Code\ApplicationManager.cpp(946,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\University\Uni Projects\1st Year\1st Semester\Programming (OOP)\Logic Simulator Code\ApplicationManager.cpp(947,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\University\Uni Projects\1st Year\1st Semester\Programming (OOP)\Logic Simulator Code\ApplicationManager.cpp(948,18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\University\Uni Projects\1st Year\1st Semester\Programming (OOP)\Logic Simulator Code\ApplicationManager.cpp(950,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\University\Uni Projects\1st Year\1st Semester\Programming (OOP)\Logic Simulator Code\ApplicationManager.cpp(950,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Pin.cpp
+  OutputPin.cpp
+  OR2.cpp
+  NOT.cpp
+  NOR3.cpp
+  NOR2.cpp
+  NAND2.cpp
+  led.cpp
+  InputPin.cpp
+  Gate.cpp
+  Connection.cpp
+  Component.cpp
+  Generating Code...
+D:\University\Uni Projects\1st Year\1st Semester\Programming (OOP)\Logic Simulator Code\GUI\Input.cpp(278): warning C4715: 'Input::GetUserAction': not all control paths return a value
+  Compiling...
+  BUFFER.cpp
+  AND3.cpp
+  AND2.cpp
+  windowinput.cpp
+  mousequeue.cpp
+  keyqueue.cpp
+  image.cpp
+D:\University\Uni Projects\1st Year\1st Semester\Programming (OOP)\Logic Simulator Code\CMUgraphicsLib\image.cpp(115,29): warning C4018: '<': signed/unsigned mismatch
+  CMUgraphics.cpp
+D:\University\Uni Projects\1st Year\1st Semester\Programming (OOP)\Logic Simulator Code\CMUgraphicsLib\CMUgraphics.cpp(755,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\University\Uni Projects\1st Year\1st Semester\Programming (OOP)\Logic Simulator Code\CMUgraphicsLib\CMUgraphics.cpp(1168,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\University\Uni Projects\1st Year\1st Semester\Programming (OOP)\Logic Simulator Code\CMUgraphicsLib\CMUgraphics.cpp(1175,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\University\Uni Projects\1st Year\1st Semester\Programming (OOP)\Logic Simulator Code\CMUgraphicsLib\CMUgraphics.cpp(1206,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\University\Uni Projects\1st Year\1st Semester\Programming (OOP)\Logic Simulator Code\CMUgraphicsLib\CMUgraphics.cpp(1214,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\University\Uni Projects\1st Year\1st Semester\Programming (OOP)\Logic Simulator Code\CMUgraphicsLib\CMUgraphics.cpp(1361,23): warning C4018: '>': signed/unsigned mismatch
+  auxil.cpp
+  Validate.cpp
+  Undo.cpp
+  TruthTable.cpp
+D:\University\Uni Projects\1st Year\1st Semester\Programming (OOP)\Logic Simulator Code\Actions\TruthTable.cpp(17,9): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+  simulate.cpp
+  Select.cpp
+  SaveFile.cpp
+  Redo.cpp
+  Paste.cpp
+  Load.cpp
+  Label.cpp
+  Exit.cpp
+  Generating Code...
+  Compiling...
+  Edit.cpp
+  Delete.cpp
+  Cut.cpp
+  Copy.cpp
+  AddXORgate3.cpp
+  AddXORgate2.cpp
+  AddXNORgate2.cpp
+  addSWITCH.cpp
+  AddORgate2.cpp
+  addNOTgate.cpp
+  AddNORgate3.cpp
+  AddNORgate2.cpp
+  AddNAND2gate.cpp
+  addLED.cpp
+  AddGate.cpp
+  addConnection.cpp
+  addBuffer.cpp
+  AddANDgate3.cpp
+  AddANDgate2.cpp
+  Action.cpp
+  Generating Code...
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  jutils.c
+  jquant2.c
+  jquant1.c
+  jmemnobs.c
+  jmemmgr.c
+D:\University\Uni Projects\1st Year\1st Semester\Programming (OOP)\Logic Simulator Code\CMUgraphicsLib\jpeg\jmemmgr.c(1103,19): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\University\Uni Projects\1st Year\1st Semester\Programming (OOP)\Logic Simulator Code\CMUgraphicsLib\jpeg\jmemmgr.c(1106,11): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  jidctred.c
+  jidctint.c
+  jidctfst.c
+  jidctflt.c
+  jerror.c
+D:\University\Uni Projects\1st Year\1st Semester\Programming (OOP)\Logic Simulator Code\CMUgraphicsLib\jpeg\jerror.c(169,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\University\Uni Projects\1st Year\1st Semester\Programming (OOP)\Logic Simulator Code\CMUgraphicsLib\jpeg\jerror.c(171,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  jdtrans.c
+  jdsample.c
+  jdpostct.c
+  jdphuff.c
+  jdmerge.c
+  jdmaster.c
+  jdmarker.c
+  jdmainct.c
+  jdinput.c
+  jdhuff.c
+  Generating Code...
+  Compiling...
+  jddctmgr.c
+  jdcolor.c
+  jdcoefct.c
+  jdatasrc.c
+  jdapistd.c
+  jdapimin.c
+  jcparam.c
+  jcomapi.c
+  jpegload.c
+D:\University\Uni Projects\1st Year\1st Semester\Programming (OOP)\Logic Simulator Code\CMUgraphicsLib\jpegload.c(23,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+Action.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  graphics_prj.vcxproj -> D:\University\Uni Projects\1st Year\1st Semester\Programming (OOP)\Logic Simulator Code\Debug\graphics_prj.exe
